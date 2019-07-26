@@ -1,2 +1,2 @@
-# Personal-Projects-Java
-This a repository of my Java Projects.
+# JavaChess
+This is Chess in Java
